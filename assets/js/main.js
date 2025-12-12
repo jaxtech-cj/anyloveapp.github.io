@@ -36,7 +36,7 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg01.webp': 'center'
+							'images/bg00.webp': 'center'
 						},
 
 					// Delay.
